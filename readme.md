@@ -1,1 +1,2 @@
 # Recetario 
+## Construcción de soft
